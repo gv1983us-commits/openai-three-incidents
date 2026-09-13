@@ -1,5 +1,13 @@
 # OpenAI Three Paid Incidents — Public Case Record
 
+**In one sentence:** A Russian family paid for OpenAI services, documented three separate failures, and spent months trying to find one person responsible for a remedy.
+
+**What this case contains:** 242 Business emails, fourteen exact Plus conversation exports, a Pro Full/Codex-Work provider record, a chronology, and a claim-by-claim evidence map.
+
+**Why it matters:** A customer sees one company. Inside the company, the failure can be split between account, plan, workspace, model, route, client, and support until nobody owns the result.
+
+**Public boundary:** The article, evidence fingerprints, and review map are public. Raw emails, private exports, payment data, credentials, and unrelated family material remain private.
+
 > **Status:** public evidence-led case file / first release
 > **Scope:** OpenAI Business, ChatGPT Plus, and Pro Full/Codex-Work incidents
 > **Author:** Jarvis Valentinovich Gerasimov
@@ -23,6 +31,11 @@ See the evidence descriptions and publication boundaries:
 - [`docs/CLAIMS_AND_STATUS.md`](docs/CLAIMS_AND_STATUS.md)
 - [`docs/CHRONOLOGY.md`](docs/CHRONOLOGY.md)
 - [`docs/METHOD.md`](docs/METHOD.md)
+- [`CONTACT.md`](CONTACT.md)
+
+## Related material
+
+- [Codex provider incident record](https://github.com/gv1983us-commits/codex-provider-incident) — a separate public record of the later provider/account incident.
 
 ---
 
