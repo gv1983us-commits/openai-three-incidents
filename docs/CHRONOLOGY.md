@@ -1,0 +1,17 @@
+# Public chronology
+
+Dates below are limited to the published case scope. Exact message locations and raw identifiers remain in the private evidence set.
+
+| Date / period | Event | Status |
+|---|---|---|
+| Around 2025-09-29 | Move from ChatGPT Plus to a two-seat ChatGPT Business workspace | DOCUMENTED |
+| 2025-09-30 | Birth of the author's brother; the family context later appears in contemporaneous notice to OpenAI | DOCUMENTED |
+| 2025-10-10 | Business correspondence becomes dense with diagnostic and technical reports | DOCUMENTED |
+| 2025-10-15–17 | Repeated requests for a human specialist, unified case, refund, and engineering review | DOCUMENTED |
+| 2025-10-16 | Notice records newborn child, family obligations, loans, lost working time, stalled business, and a resolution deadline | DOCUMENTED |
+| Late October 2025 | A human OpenAI employee asks for a description, reproduction steps, and screenshots; the customer responds with the requested material | DOCUMENTED |
+| End of October 2025 | The Business incident period ends without a dependable workspace in the preserved record | DOCUMENTED-ABSENCE |
+| About ten days later | Wife leaves the family home with the children | OWNER TESTIMONY / DOCUMENTED SEQUENCE |
+| After the Business incident | Fourteen Plus conversation branches are preserved and compared as a product-boundary investigation | DOCUMENTED |
+| 2026-09-08–10 | Pro Full/Codex-Work failures are audited across Hermes and official ChatGPT Work; Pro Light is used as the same-environment comparison | DOCUMENTED / REPRODUCED |
+| 2026-09-10 | GPT-5.5 returns a response in official Work on the affected Pro Full account while other affected model paths continue to fail in the report | DOCUMENTED / REPRODUCED |

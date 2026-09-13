@@ -1,0 +1,36 @@
+# Private primary evidence — never publish
+*.eml
+*.emlx
+*.msg
+*.pst
+*.zip
+*.7z
+*.rar
+*.jsonl
+*.sqlite
+*.db
+*.log
+*.csv
+*.html
+*.har
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Credentials and local state
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+tokens*
+secrets*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
