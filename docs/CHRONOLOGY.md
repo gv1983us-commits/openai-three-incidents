@@ -15,3 +15,7 @@ Dates below are limited to the published case scope. Exact message locations and
 | After the Business incident | Fourteen Plus conversation branches are preserved and compared as a product-boundary investigation | DOCUMENTED |
 | 2026-09-08–10 | Pro Full/Codex-Work failures are audited across Hermes and official ChatGPT Work; Pro Light is used as the same-environment comparison | DOCUMENTED / REPRODUCED |
 | 2026-09-10 | GPT-5.5 returns a response in official Work on the affected Pro Full account while other affected model paths continue to fail in the report | DOCUMENTED / REPRODUCED |
+| 2026-09-11–12 | A short usable interval leads to an optimistic temporary-recovery interpretation; recurrence follows and the incident remains open | DOCUMENTED / SUPERSEDED AS CLOSURE |
+| 2026-09-15–16 | Repeated Astra/Sol overload, processing failures, 503/connection failures and five-attempt exhaustion are added to the audited record | AUDITED / OPEN |
+| 2026-09-17 | Cross-surface recurrence expands the live ledger to 723 failures since the fixed baseline, 954 across supplied logs and 498 in the final rolling 48 hours; Direct ChatGPT incomplete turns are recorded separately | AUDITED / OPEN |
+| 2026-09-18 | Public repositories are reconciled to state explicitly that no durable closure occurred; the earlier short recovery window is retained only as historical provenance | CURRENT STATUS |
