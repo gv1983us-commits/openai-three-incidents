@@ -8,8 +8,10 @@
 
 **Public boundary:** The article, evidence fingerprints, and review map are public. Raw emails, private exports, payment data, credentials, and unrelated family material remain private.
 
-> **Status:** public evidence-led case file / first release
+> **Status:** living public evidence-led case file; the third incident remains OPEN as of 18 September 2026
 > **Scope:** OpenAI Business, ChatGPT Plus, and Pro Full/Codex-Work incidents
+>
+> **Current third-incident note:** The short usable interval around 11–12 September did not close the third incident. Later evidence shows renewed and substantially larger Codex failures, Sol overload on the Light path, and separately scoped incomplete Direct ChatGPT turns. The live technical ledger is maintained in [codex-provider-incident](https://github.com/gv1983us-commits/codex-provider-incident).
 > **Author:** Jarvis Valentinovich Gerasimov
 > **Primary evidence:** preserved privately; redacted access available to qualified journalists, lawyers, and public-interest researchers on request.
 
@@ -135,11 +137,11 @@ That investigation became the foundation of Jarvis: a system built on the rule t
 
 The third incident concerned Pro Full and access to the Codex/Work route.
 
-The comparison used the same computer, browser environment, and user. Pro Light could reach the Work/Codex route. Pro Full returned repeated "overloaded" failures across several clients and model paths, while ordinary chat on the same Pro Full account continued to work.
+The early comparison used the same computer, browser environment, and user. At that stage Pro Light could reach the Work/Codex route while Pro Full returned repeated "overloaded" failures across several clients and model paths, and ordinary chat on the same Pro Full account continued to work. **That was a temporary comparison window, not a final resolution:** later retained evidence records Sol overload on the Light path as well.
 
 The failure followed the account and the route. It was not explained by the local machine alone.
 
-The checks were repeated through the native ChatGPT interface and through Hermes. The evidence narrowed the failure to the paid Codex/Work route associated with Pro Full. Several higher model paths failed. GPT-5.5 worked as a fallback where the newer route did not.
+The checks were repeated through the native ChatGPT interface and through Hermes. The early evidence showed a strong account/route-selective pattern around Pro Full, but later recurrence broadened the picture: higher model paths continued to fail, GPT-5.5 itself also produced an exact overload receipt, and Pro Light was not a durable workaround. By the latest audited 17 September boundary, the live incident record contains **723 failed Codex attempts since the fixed baseline, 954 across supplied logs, and 498 in the final rolling 48 hours**, plus separately scoped incomplete Direct ChatGPT turns. These observations do not identify the private server-side root cause.
 
 From the customer's side, the result was plain: one paid identity worked differently from another paid identity in the same surrounding environment.
 
