@@ -1,5 +1,7 @@
 # Pro Full / Codex-Work incident
 
+> **Current-status addendum — 18 September 2026:** this file preserves the original 8–10 September comparison, but that comparison did **not** become a durable resolution. The short usable interval that followed was temporary. Later evidence records renewed failures, including Sol overload on the Light path and separately scoped incomplete Direct ChatGPT turns. The continuously updated technical ledger is [codex-provider-incident](https://github.com/gv1983us-commits/codex-provider-incident), currently at **723 failed Codex attempts since the fixed baseline, 954 across supplied logs, and 498 in the final rolling 48 hours**.
+
 ## Scope
 
 This evidence family covers the September 8–10, 2026 account-selective failure affecting a higher-tier paid account referred to in the public record as **Pro Full**. A second paid identity, **Pro Light**, was used as the comparison.
@@ -26,7 +28,7 @@ A related public technical report is available at:
 | Pro Full, official ChatGPT Work in Edge | overload/capacity failure for affected model paths; GPT-5.5 later returned a response |
 | Pro Full, official ChatGPT Work in Yandex Browser | overload/capacity failure for affected model paths |
 | Pro Full, ordinary ChatGPT conversation mode | worked |
-| Pro Light, official ChatGPT Work in the same browser | worked |
+| Pro Light, official ChatGPT Work in the same browser | worked in the early comparison window; later evidence shows Light was not a durable workaround |
 
 The historical log audit recorded 151 main-loop overloaded attempts, 11 additional auxiliary overload failures, and 1,987 successful Codex calls in the detailed window. The report distinguishes overloads from 429 rate-limit events and other errors.
 
@@ -35,7 +37,7 @@ The historical log audit recorded 151 main-loop overloaded attempts, 11 addition
 - the failure reproduced outside Hermes;
 - the observed failure followed the paid account and route more closely than the local machine alone;
 - the incident was model- and route-dependent rather than a claim that every Codex operation on the account always failed;
-- the same surrounding environment produced different results for the two paid identities.
+- the same surrounding environment produced different results for the two paid identities during the early comparison window; later recurrence broadened the affected picture.
 
 ## What this evidence does not establish by itself
 
