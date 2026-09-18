@@ -1,6 +1,6 @@
 # Pro Full / Codex-Work incident
 
-> **Current-status addendum — 18 September 2026:** this file preserves the original 8–10 September comparison, but that comparison did **not** become a durable resolution. The short usable interval that followed was temporary. Later evidence records renewed failures, including Sol overload on the Light path and separately scoped incomplete Direct ChatGPT turns. The continuously updated technical ledger is [codex-provider-incident](https://github.com/gv1983us-commits/codex-provider-incident), currently at **723 failed Codex attempts since the fixed baseline, 954 across supplied logs, and 498 in the final rolling 48 hours**.
+> **Current-status addendum — 18 September 2026:** this file preserves the original 8–10 September comparison, but that comparison did **not** become a durable resolution. The short usable interval that followed was temporary. Later evidence records renewed failures, including Sol overload on the Light path and separately scoped incomplete Direct ChatGPT turns. The continuously updated technical ledger is [codex-provider-incident](https://github.com/gv1983us-commits/codex-provider-incident), currently at **747 failed Codex attempts since the fixed baseline, 978 across supplied logs, and 451 in the final rolling 48 hours**. The newest morning delta adds 24 Sol failures amid 385 successful main-loop calls; the lower rolling count reflects older failures aging out.
 
 ## Scope
 
